@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+
+    <string-array name = "Shopping_Items" >
+        <item>Cloths</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Books</item>
+        <item>Electronics</item>
+        <item>Mobiles</item>
+        <item>Video Games</item>
+        <item>knowledge</item>
+    </string-array>
+
+    <string-array name = "description">
+        <item>Something To Wear</item>
+        <item>Grows on tree</item>
+        <item>Getting Expensive day by day</item>
+        <item>Contains Knowledge just pick the right one</item>
+        <item>Makes your life easy</item>
+        <item>Something I make,will Keep you busy</item>
+        <item>Increases your thinking capability more than a Avg Person</item>
+        <item>Something which is never enough</item>
+    </string-array>
+
+</resources>
